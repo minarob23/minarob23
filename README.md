@@ -7,8 +7,18 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minarob23)
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-success?style=for-the-badge)
 ![Location](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC%20Based%20in-Cairo%2C%20Egypt-informational?style=for-the-badge)
+
+<br>
+
+<!-- Animated banner snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -32,6 +42,30 @@
 | 🌐 **Languages** | Arabic (Native) · English (B2) · German (Elementary) |
 | 📍 **Location** | Cairo, Egypt · Open to Remote & On-site |
 | 🟢 **Status** | Available for Senior Backend & Full-Stack roles |
+| ☕ **Fuel** | Coffee-driven development since 2021 |
+| 🎯 **Philosophy** | Ship fast. Refactor right. Document always. |
+
+---
+
+## 🧠 Engineering Philosophy
+
+<div align="center">
+
+> *"Code is written for humans first, machines second. If the next engineer can't understand it in five minutes, it's not done."*
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    M Y   C O D E   C R E E D                    │
+├─────────────────────────────────────────────────────────────────┤
+│  ✦  Performance is a feature, not an afterthought               │
+│  ✦  Every abstraction must earn its complexity cost             │
+│  ✦  Tests are documentation that actually stays up-to-date      │
+│  ✦  A good README is half the work                              │
+│  ✦  The best API is the one you never have to explain           │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -96,6 +130,74 @@
 | 🗄️ **Data & Backend** | Normalized schemas · Drizzle ORM · MVC · Bulk transaction handling · Migrations |
 | 🖥️ **Desktop** | Electron cross-platform apps · SQLite · Admin dashboards · Offline-first architecture |
 | ☁️ **DevOps & Cloud** | Docker · AWS EC2/S3 · GitHub Actions CI/CD · Vercel · Linux server administration |
+| 🔐 **Security** | OAuth2 · JWT · Input validation · CORS hardening · Rate limiting |
+| ⚙️ **Architecture** | Microservice decomposition · Event-driven patterns · Caching strategies · API versioning |
+
+---
+
+## 🚀 Impact by the Numbers
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                  SHIPPING SINCE 2021 — BY THE NUMBERS           ║
+╠═══════════════════╦══════════════════════════════════════════════╣
+║  5+               ║  Full-stack web apps in production           ║
+║  3                ║  Cross-platform Electron desktop systems     ║
+║  <200ms           ║  API response latency under bulk load        ║
+║  -30%             ║  Page load time reduction achieved           ║
+║  -25%             ║  Server response time improvement            ║
+║  +15%             ║  User session duration uplift                ║
+║  120+             ║  Students coached in CS & mathematics        ║
+║  5,000+           ║  Weekly visits across deployments            ║
+║  3+               ║  Years of continuous shipping                ║
+╚═══════════════════╩══════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🗓️ My Developer Journey
+
+```
+2021 ──┬── Started B.Sc. Computer Science at Arab Open University
+       │   First lines of web code written. No going back.
+       │
+2022 ──┼── Built first full-stack CRUD app (React + Node.js + PostgreSQL)
+       │   Fell in love with backend engineering and system design
+       │
+2023 ──┼── Shipped first Electron desktop system
+       │   Explored Docker, AWS EC2/S3, and CI/CD pipelines
+       │   Started coaching 120+ students in CS & mathematics
+       │
+2024 ──┼── Deployed multi-regional apps (5,000+ weekly visits)
+       │   Achieved <200ms API latency under bulk load
+       │   🏆 Certified — ALX Africa Software Engineering (Dec 2024)
+       │
+2025 ──┼── 🎓 Graduated B.Sc. Computer Science (131 credits)
+       │   🇬🇧 Dual validation — The Open University, UK
+       │   Expanded into microservices & distributed systems
+       │
+2026 ──┴── 🟢 Open to Senior Backend & Full-Stack opportunities
+           Building the next chapter.
+```
+
+---
+
+## 🧩 Currently Exploring
+
+<div align="center">
+
+| 🔭 Deep Diving Into | 🌱 Growing In | ⚡ Experimenting With |
+|:---:|:---:|:---:|
+| Distributed systems patterns | System design at scale | WebSockets & real-time data |
+| gRPC & Protocol Buffers | Kubernetes & container orchestration | Redis caching strategies |
+| Event-driven architecture | GraphQL API design | Edge computing & serverless |
+| Database sharding & replication | OpenTelemetry & observability | AI-augmented developer tooling |
+
+</div>
 
 ---
 
@@ -106,6 +208,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Loading+contribution+graph...;Fetching+commit+history...;Rendering+activity+data+%E2%9C%94)](https://github.com/minarob23)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minarob23&bg_color=0d1117&color=00FF41&line=00d4ff&point=ffffff&area=true&area_color=00FF4115&hide_border=false&border_color=00FF4150&title_color=00FF41)](https://github.com/minarob23)
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minarob23&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00d4ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarob23&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff"/>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=minarob23&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00d4ff&currStreakLabel=00FF41)](https://github.com/minarob23)
 
 </div>
 
@@ -129,14 +240,48 @@
 
 ---
 
+## 🤝 What It's Like to Work With Me
+
+<div align="center">
+
+```
+  async function workWithMina() {
+    const traits = {
+      communication : "async-first, always responds within 24h",
+      codeReviews   : "constructive, specific, and kind",
+      deadlines     : "ships on time or flags blockers early",
+      documentation : "writes it before being asked",
+      debugging     : "digs to root cause, not just symptoms",
+      learning      : "reads the RFC before the tutorial",
+    };
+
+    return traits;
+  }
+```
+
+</div>
+
+---
+
 ## 💬 Contact
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minarob23)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=444444&center=true&vCenter=true&width=700&lines=Clean+code.+Modular+architecture.+Real+impact.;Shipping+since+2021.+Still+accelerating.;Every+commit+is+a+step+forward.)](https://github.com/minarob23)
+> 💡 **Open to:** Senior Backend Roles · Full-Stack Positions · Remote Contracts · Interesting Side Projects
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=444444&center=true&vCenter=true&width=700&lines=Clean+code.+Modular+architecture.+Real+impact.;Shipping+since+2021.+Still+accelerating.;Every+commit+is+a+step+forward.;The+terminal+is+always+open.)](https://github.com/minarob23)
+
+<br>
+
+---
+
+<sub>⚡ This README auto-updates via GitHub Actions · Last refreshed: dynamically · Built with precision, not a template.</sub>
 
 </div>
