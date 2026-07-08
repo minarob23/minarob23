@@ -182,18 +182,26 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Loading+contribution+graph...;Fetching+commit+history...;Rendering+activity+data+%E2%9C%94)](https://github.com/minarob23)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minarob23&bg_color=0d1117&color=00FF41&line=00d4ff&point=ffffff&area=true&area_color=00FF4115&hide_border=false&border_color=00FF4150&title_color=00FF41)](https://github.com/minarob23)
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minarob23&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00d4ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minarob23&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff"/>
+### 📈 By the Stats
+
+| Metric | Value |
+|:---|:---|
+| 🗂️ **Public Repos** | ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fminarob23&query=%24.public_repos&style=flat-square&color=00FF41&labelColor=0d1117&label=repos) |
+| 👥 **Followers** | ![Followers](https://img.shields.io/github/followers/minarob23?style=flat-square&color=00d4ff&labelColor=0d1117&label=followers) |
+| ⭐ **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=minarob23&color=FFD700&style=flat-square&label=views) |
+| 🏆 **Member Since** | ![Since](https://img.shields.io/badge/GitHub%20since-2021-00FF41?style=flat-square&labelColor=0d1117) |
+| 💻 **Primary Stack** | ![Stack](https://img.shields.io/badge/TypeScript%20·%20Node.js%20·%20React-full--stack-00d4ff?style=flat-square&labelColor=0d1117) |
+| 🌍 **Deployments** | ![Deploys](https://img.shields.io/badge/multi--regional-5%2C000%2B%20weekly%20visits-00FF41?style=flat-square&labelColor=0d1117) |
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=minarob23&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00d4ff&currStreakLabel=00FF41)](https://github.com/minarob23)
+![Profile Views Badge](https://komarev.com/ghpvc/?username=minarob23&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers Badge](https://img.shields.io/github/followers/minarob23?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)
+![Repos Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fminarob23&query=%24.public_repos&style=for-the-badge&color=FFD700&labelColor=0d1117&label=PUBLIC+REPOS)
 
 </div>
 
