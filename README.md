@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Mina+Robir+Magdy+Fawzy;Full+Stack+Engineer;Desktop+Application+Developer;Cairo+%F0%9F%87%AA%F0%9F%87%AC+%E2%86%92+Open+to+Remote)](https://github.com/minarob23)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Mina+Robir+Magdy+Fawzy;Full+Stack+Web+Developer;Desktop+Application+Developer;Cairo+%F0%9F%87%AA%F0%9F%87%AC+%E2%86%92+Open+to+Remote)](https://github.com/minarob23)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=600&color=00d4ff&center=true&vCenter=true&width=800&height=40&lines=TypeScript+%7C+React+%7C+Node.js+%7C+PostgreSQL+%7C+Docker+%7C+AWS)](https://github.com/minarob23)
 
