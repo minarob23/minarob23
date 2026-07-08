@@ -286,8 +286,94 @@ $ run diagnostics --domain devops
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minarob23&bg_color=0d1117&color=00FF41&line=00d4ff&point=ffffff&area=true&area_color=00FF4120&hide_border=false&border_color=00FF41&title_color=00FF41)](https://github.com/minarob23)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=minarob23&show_icons=true&bg_color=0d1117&title_color=00FF41&icon_color=00d4ff&text_color=adbac7&border_color=00FF41&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/minarob23)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minarob23&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=adbac7&border_color=00FF41&langs_count=8)](https://github.com/minarob23)
+<svg width="760" height="230" viewBox="0 0 760 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardA" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a1f0a"/>
+    </linearGradient>
+    <linearGradient id="cardB" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a1628"/>
+    </linearGradient>
+    <filter id="g">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- ── LEFT CARD: Stats ── -->
+  <rect x="0" y="0" width="368" height="220" rx="10" fill="url(#cardA)" stroke="#00FF41" stroke-width="1" stroke-opacity="0.5"/>
+  <rect x="0" y="0" width="368" height="220" rx="10" fill="none" stroke="#00FF41" stroke-width="1">
+    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- title -->
+  <text x="18" y="30" fill="#00FF41" font-family="monospace" font-size="13" font-weight="bold" filter="url(#g)">Mina Robir's GitHub Stats</text>
+
+  <!-- divider -->
+  <line x1="18" y1="40" x2="350" y2="40" stroke="#00FF41" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- stat rows -->
+  <text x="28" y="68"  fill="#adbac7" font-family="monospace" font-size="12">⭐  Total Stars Earned:</text>
+  <text x="290" y="68"  fill="#00FF41" font-family="monospace" font-size="12" font-weight="bold">check profile</text>
+
+  <text x="28" y="96"  fill="#adbac7" font-family="monospace" font-size="12">🔀  Total Commits (2024):</text>
+  <text x="290" y="96"  fill="#00FF41" font-family="monospace" font-size="12" font-weight="bold">see graph ↑</text>
+
+  <text x="28" y="124" fill="#adbac7" font-family="monospace" font-size="12">🛠️  Languages Used:</text>
+  <text x="290" y="124" fill="#00d4ff" font-family="monospace" font-size="12" font-weight="bold">7+</text>
+
+  <text x="28" y="152" fill="#adbac7" font-family="monospace" font-size="12">📁  Public Repos:</text>
+  <text x="290" y="152" fill="#00d4ff" font-family="monospace" font-size="12" font-weight="bold">see profile</text>
+
+  <text x="28" y="180" fill="#adbac7" font-family="monospace" font-size="12">📅  Coding Since:</text>
+  <text x="290" y="180" fill="#00d4ff" font-family="monospace" font-size="12" font-weight="bold">2021</text>
+
+  <text x="28" y="208" fill="#adbac7" font-family="monospace" font-size="12">🏆  ALX Certified:</text>
+  <text x="290" y="208" fill="#FFD700" font-family="monospace" font-size="12" font-weight="bold">Dec 2024</text>
+
+  <!-- ── RIGHT CARD: Languages ── -->
+  <rect x="392" y="0" width="368" height="220" rx="10" fill="url(#cardB)" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.5"/>
+  <rect x="392" y="0" width="368" height="220" rx="10" fill="none" stroke="#00d4ff" stroke-width="1">
+    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- title -->
+  <text x="410" y="30" fill="#00d4ff" font-family="monospace" font-size="13" font-weight="bold" filter="url(#g)">Most Used Languages</text>
+  <line x1="410" y1="40" x2="742" y2="40" stroke="#00d4ff" stroke-width="0.5" stroke-opacity="0.4"/>
+
+  <!-- TypeScript bar -->
+  <text x="410" y="68" fill="#adbac7" font-family="monospace" font-size="12">TypeScript</text>
+  <rect x="410" y="74" width="0" height="8" rx="4" fill="#007ACC">
+    <animate attributeName="width" from="0" to="260" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="678" y="83" fill="#007ACC" font-family="monospace" font-size="11">primary</text>
+
+  <!-- JavaScript bar -->
+  <text x="410" y="105" fill="#adbac7" font-family="monospace" font-size="12">JavaScript</text>
+  <rect x="410" y="111" width="0" height="8" rx="4" fill="#F7DF1E">
+    <animate attributeName="width" from="0" to="200" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- Python bar -->
+  <text x="410" y="142" fill="#adbac7" font-family="monospace" font-size="12">Python</text>
+  <rect x="410" y="148" width="0" height="8" rx="4" fill="#3670A0">
+    <animate attributeName="width" from="0" to="150" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- SQL bar -->
+  <text x="410" y="179" fill="#adbac7" font-family="monospace" font-size="12">SQL</text>
+  <rect x="410" y="185" width="0" height="8" rx="4" fill="#316192">
+    <animate attributeName="width" from="0" to="120" dur="2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- C++ bar -->
+  <text x="410" y="216" fill="#adbac7" font-family="monospace" font-size="12">C++ / Java / Bash</text>
+  <rect x="410" y="220" width="0" height="6" rx="3" fill="#00599C">
+    <animate attributeName="width" from="0" to="90" dur="2.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+</svg>
 
 </div>
 
