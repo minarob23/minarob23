@@ -1,123 +1,45 @@
-<!-- ═══════════════════════════════════════════════════════════
-     HAND-CRAFTED SVG HEADER — no external image service needed
-     ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0d1117"/>
-      <stop offset="50%"  stop-color="#0f1923"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00FF41" stop-opacity="0"/>
-      <stop offset="30%"  stop-color="#00FF41"/>
-      <stop offset="70%"  stop-color="#00d4ff"/>
-      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=Mina+Robir+Magdy+Fawzy;Full+Stack+Engineer;Desktop+Application+Developer;Cairo+%F0%9F%87%AA%F0%9F%87%AC+%E2%86%92+Open+to+Remote)](https://github.com/minarob23)
 
-  <!-- background -->
-  <rect width="860" height="180" rx="12" fill="url(#bg)"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=600&color=00d4ff&center=true&vCenter=true&width=800&height=40&lines=TypeScript+%7C+React+%7C+Node.js+%7C+PostgreSQL+%7C+Docker+%7C+AWS)](https://github.com/minarob23)
 
-  <!-- animated scan line -->
-  <rect x="0" y="0" width="860" height="2" fill="url(#line)" opacity="0.6">
-    <animateTransform attributeName="transform" type="translate" from="0,0" to="0,180" dur="3s" repeatCount="indefinite"/>
-  </rect>
+<br>
 
-  <!-- corner brackets -->
-  <text x="18" y="34" fill="#00FF41" font-family="monospace" font-size="20" opacity="0.7">┌─</text>
-  <text x="810" y="34" fill="#00FF41" font-family="monospace" font-size="20" opacity="0.7">─┐</text>
-  <text x="18" y="168" fill="#00FF41" font-family="monospace" font-size="20" opacity="0.7">└─</text>
-  <text x="810" y="168" fill="#00FF41" font-family="monospace" font-size="20" opacity="0.7">─┘</text>
-
-  <!-- prompt prefix -->
-  <text x="50" y="76" fill="#00FF41" font-family="'Courier New',monospace" font-size="15" filter="url(#glow)" opacity="0.9">$ whoami</text>
-
-  <!-- main name with glow -->
-  <text x="430" y="108" text-anchor="middle" fill="#ffffff" font-family="'Courier New',monospace" font-size="38" font-weight="bold" filter="url(#glow)">
-    Mina Robir
-  </text>
-
-  <!-- animated underline -->
-  <line x1="200" y1="116" x2="660" y2="116" stroke="url(#line)" stroke-width="1.5">
-    <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
-  </line>
-
-  <!-- subtitle -->
-  <text x="430" y="146" text-anchor="middle" fill="#00d4ff" font-family="'Courier New',monospace" font-size="15" opacity="0.85">
-    Full Stack &amp; Desktop Engineer  ·  Cairo, Egypt 🇪🇬  ·  Open to Remote
-  </text>
-
-  <!-- blinking cursor -->
-  <rect x="50" y="82" width="10" height="2" fill="#00FF41">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
-<!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Full+Stack+%26+Desktop+Engineer;%24+uptime+%E2%86%92+4%2B+years+in+production+engineering;%24+stack+%E2%86%92+TypeScript+%7C+React+%7C+Node.js+%7C+PostgreSQL;%24+status+%E2%86%92+Open+to+Senior+Engineering+Roles+%F0%9F%9F%A2;%24+deploy+--target+remote+--region+worldwide)](https://github.com/minarob23)
-
-<!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
-![Location](https://img.shields.io/badge/Cairo-Egypt-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=0d1117&color=00FF41)
-![Available](https://img.shields.io/badge/Status-Available_Now-0d1117?style=for-the-badge&logo=statuspage&logoColor=00FF41&labelColor=0d1117&color=00FF41)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-success?style=for-the-badge)
+![Location](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC%20Based%20in-Cairo%2C%20Egypt-informational?style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- ═══════════ PROFILE ═══════════ -->
-<details open>
-<summary><b>⚡ <code>> system.profile --full</code></b></summary><br>
-
-```typescript
-const mina = {
-  name    : "Mina Robir Magdy Fawzy",
-  role    : "Full Stack Web & Desktop Application Developer",
-  location: "Cairo, Egypt 🇪🇬  →  Open to Remote",
-  core    : ["TypeScript", "Node.js", "React", "PostgreSQL", "Docker", "AWS"],
-
-  built: {
-    webApps     : "5+ scalable full-stack production applications",
-    desktopApps : "3 cross-platform Electron systems",
-    b2bPlatform : "50+ manufacturers connected, <200ms API latency",
-    traffic     : "5,000+ weekly visits, zero degradation",
-  },
-
-  impact: {
-    pageLoadSpeed  : "-30%   via lazy loading",
-    serverResponse : "-25%   via optimized SQL queries",
-    userEngagement : "+15%   session duration uplift",
-    desktopOps     : "+40%   faster administrative operations",
-  },
-
-  education: [
-    "B.Sc. Computer Science  —  Arab Open University  (131 credits)",
-    "UK Dual Accreditation   —  The Open University, United Kingdom",
-    "ALX Africa SE Intensive —  12-month programme  (2023–2024)",
-  ],
-
-  spokenLanguages : { Arabic: "Native", English: "Professional B2", German: "Elementary" },
-  currentStatus   : "🟢  Available for Senior Backend & Full-Stack roles",
-};
-```
-
-</details>
-
----
-
-<!-- ═══════════ TECH STACK ═══════════ -->
-## `> ls ./tech-stack/`
+## ⚡ About Me
 
 <div align="center">
 
-**◈ Languages**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=700&color=ffffff&center=true&vCenter=true&multiline=false&width=800&lines=🚀+5%2B+full-stack+web+apps+shipped+to+production;🖥️+3+cross-platform+desktop+systems+with+Electron;⚡+%3C200ms+API+response+latency+under+bulk+load;📉+-30%25+page+load+%7C+-25%25+server+response+time;📈+%2B15%25+user+session+duration+uplift;👨‍🏫+120%2B+students+coached+in+CS+%26+mathematics;🌍+Multi-regional+deployments+%7C+5%2C000%2B+weekly+visits)](https://github.com/minarob23)
+
+</div>
+
+<br>
+
+| | |
+|:---|:---|
+| 🎓 **Education** | B.Sc. Computer Science — Arab Open University (131 credits) |
+| 🇬🇧 **UK Accredited** | Dual validation — The Open University, United Kingdom |
+| 🏆 **Certified** | ALX Africa Software Engineering — Dec 2024 |
+| 🌐 **Languages** | Arabic (Native) · English (B2) · German (Elementary) |
+| 📍 **Location** | Cairo, Egypt · Open to Remote & On-site |
+| 🟢 **Status** | Available for Senior Backend & Full-Stack roles |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -127,7 +49,7 @@ const mina = {
 [![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 
-**◈ Frontend & Desktop**
+**Frontend & Desktop**
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
@@ -135,7 +57,7 @@ const mina = {
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-**◈ Backend & Databases**
+**Backend & Databases**
 
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com)
@@ -144,7 +66,7 @@ const mina = {
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)](https://orm.drizzle.team)
 
-**◈ DevOps & Cloud**
+**DevOps & Cloud**
 
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
@@ -158,301 +80,63 @@ const mina = {
 
 ---
 
-<!-- ═══════════ ENGINEERING DNA ═══════════ -->
-## `> cat ./engineering-dna.md`
+## 🌐 What I Build
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00d4ff&center=true&vCenter=true&width=760&lines=I+build+RESTful+APIs+that+don't+break+under+pressure.;I+design+schemas+that+outlive+the+sprint.;I+ship+UIs+that+users+actually+enjoy.;I+write+code+that+the+next+engineer+can+read.;I+turn+complex+problems+into+elegant+solutions.)](https://github.com/minarob23)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=900&color=00d4ff&center=true&vCenter=true&width=800&lines=I+build+RESTful+APIs+that+don%27t+break+under+pressure;I+design+schemas+that+outlive+the+sprint;I+ship+UIs+that+users+actually+enjoy;I+write+code+the+next+engineer+can+read;I+turn+complex+problems+into+elegant+solutions)](https://github.com/minarob23)
 
-</div><br>
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-### 🌐 Web Engineering
-```
-$ run diagnostics --domain web
-  ✔  RESTful API design & versioning
-  ✔  pnpm Monorepo architecture
-  ✔  SPA routing & lazy loading
-  ✔  Secure auth flows
-  ✔  Responsive UI — Tailwind + React
-  ✔  Sub-200ms API response targets
-```
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Data & Backend
-```
-$ run diagnostics --domain backend
-  ✔  Normalized PostgreSQL schemas
-  ✔  Drizzle ORM & query optimization
-  ✔  MVC architecture & clean modules
-  ✔  SQLite for embedded/offline apps
-  ✔  Bulk transaction handling
-  ✔  Data integrity & migration safety
-```
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Desktop Engineering
-```
-$ run diagnostics --domain desktop
-  ✔  Cross-platform apps via Electron
-  ✔  Local DB management (SQLite)
-  ✔  Admin dashboards & inventory UIs
-  ✔  File system operations & IPC
-  ✔  Offline-first architecture
-  ✔  Native OS integration
-```
-</td>
-<td width="50%" valign="top">
-
-### ☁️ DevOps & Deployment
-```
-$ run diagnostics --domain devops
-  ✔  Docker containerisation
-  ✔  AWS EC2 & S3 deployments
-  ✔  GitHub Actions CI/CD pipelines
-  ✔  Vercel & Render deployments
-  ✔  Linux server administration
-  ✔  Zero-downtime release strategies
-```
-</td>
-</tr>
-</table>
+| Domain | Capabilities |
+|:---|:---|
+| 🌐 **Web Engineering** | RESTful API design · pnpm Monorepos · SPA routing · Lazy loading · Secure auth |
+| 🗄️ **Data & Backend** | Normalized schemas · Drizzle ORM · MVC · Bulk transaction handling · Migrations |
+| 🖥️ **Desktop** | Electron cross-platform apps · SQLite · Admin dashboards · Offline-first architecture |
+| ☁️ **DevOps & Cloud** | Docker · AWS EC2/S3 · GitHub Actions CI/CD · Vercel · Linux server administration |
 
 ---
 
-<!-- ═══════════ METRICS ═══════════ -->
-## `> ./metrics --production`
+## 📊 GitHub Activity
 
 <div align="center">
 
-<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"  stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0f1f0f"/>
-    </linearGradient>
-    <filter id="glow2">
-      <feGaussianBlur stdDeviation="2" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Loading+contribution+graph...;Fetching+commit+history...;Rendering+activity+data+%E2%9C%94)](https://github.com/minarob23)
 
-  <rect width="760" height="220" rx="10" fill="url(#cardBg)" stroke="#00FF41" stroke-width="1" stroke-opacity="0.4"/>
-
-  <!-- top border glow animation -->
-  <rect x="1" y="1" width="758" height="2" rx="1" fill="#00FF41" opacity="0.0">
-    <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Title -->
-  <text x="380" y="32" text-anchor="middle" fill="#00FF41" font-family="monospace" font-size="13" filter="url(#glow2)" opacity="0.9">── PRODUCTION METRICS ──</text>
-
-  <!-- Row 1 -->
-  <text x="40" y="65" fill="#00d4ff" font-family="monospace" font-size="13">📦</text>
-  <text x="65" y="65" fill="#adbac7" font-family="monospace" font-size="13">5+   full-stack web apps shipped to production</text>
-
-  <text x="40" y="90" fill="#00d4ff" font-family="monospace" font-size="13">🖥️</text>
-  <text x="65" y="90" fill="#adbac7" font-family="monospace" font-size="13">3    cross-platform desktop systems deployed</text>
-
-  <text x="40" y="115" fill="#00FF41" font-family="monospace" font-size="13">⚡</text>
-  <text x="65" y="115" fill="#adbac7" font-family="monospace" font-size="13">&lt;200ms  API response latency under bulk load</text>
-
-  <text x="40" y="140" fill="#00FF41" font-family="monospace" font-size="13">📉</text>
-  <text x="65" y="140" fill="#adbac7" font-family="monospace" font-size="13">-30%    page load time  ·  -25% server response time</text>
-
-  <text x="40" y="165" fill="#00FF41" font-family="monospace" font-size="13">📈</text>
-  <text x="65" y="165" fill="#adbac7" font-family="monospace" font-size="13">+15%    user session duration uplift</text>
-
-  <text x="40" y="190" fill="#00d4ff" font-family="monospace" font-size="13">👨‍🏫</text>
-  <text x="65" y="190" fill="#adbac7" font-family="monospace" font-size="13">120+    students coached in maths &amp; computational thinking</text>
-</svg>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minarob23&bg_color=0d1117&color=00FF41&line=00d4ff&point=ffffff&area=true&area_color=00FF4115&hide_border=false&border_color=00FF4150&title_color=00FF41)](https://github.com/minarob23)
 
 </div>
 
 ---
 
-<!-- ═══════════ GITHUB STATS ═══════════ -->
-## `> git log --oneline --stat`
+## 🏆 Credentials
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minarob23&bg_color=0d1117&color=00FF41&line=00d4ff&point=ffffff&area=true&area_color=00FF4120&hide_border=false&border_color=00FF41&title_color=00FF41)](https://github.com/minarob23)
+![ALX](https://img.shields.io/badge/🏆%20ALX%20Africa-Software%20Engineering%20Certification-FFD700?style=for-the-badge&labelColor=0d1117)
 
-<svg width="760" height="230" viewBox="0 0 760 230" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="cardA" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0a1f0a"/>
-    </linearGradient>
-    <linearGradient id="cardB" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0a1628"/>
-    </linearGradient>
-    <filter id="g">
-      <feGaussianBlur stdDeviation="2" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+![BSc](https://img.shields.io/badge/🎓%20Arab%20Open%20University-B.Sc.%20Computer%20Science%20%7C%20131%20Credits-00FF41?style=for-the-badge&labelColor=0d1117)
 
-  <!-- ── LEFT CARD: Stats ── -->
-  <rect x="0" y="0" width="368" height="220" rx="10" fill="url(#cardA)" stroke="#00FF41" stroke-width="1" stroke-opacity="0.5"/>
-  <rect x="0" y="0" width="368" height="220" rx="10" fill="none" stroke="#00FF41" stroke-width="1">
-    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/>
-  </rect>
+![UK](https://img.shields.io/badge/🇬🇧%20Open%20University%20UK-Dual%20Degree%20Validation-00d4ff?style=for-the-badge&labelColor=0d1117)
 
-  <!-- title -->
-  <text x="18" y="30" fill="#00FF41" font-family="monospace" font-size="13" font-weight="bold" filter="url(#g)">Mina Robir's GitHub Stats</text>
-
-  <!-- divider -->
-  <line x1="18" y1="40" x2="350" y2="40" stroke="#00FF41" stroke-width="0.5" stroke-opacity="0.4"/>
-
-  <!-- stat rows -->
-  <text x="28" y="68"  fill="#adbac7" font-family="monospace" font-size="12">⭐  Total Stars Earned:</text>
-  <text x="290" y="68"  fill="#00FF41" font-family="monospace" font-size="12" font-weight="bold">check profile</text>
-
-  <text x="28" y="96"  fill="#adbac7" font-family="monospace" font-size="12">🔀  Total Commits (2024):</text>
-  <text x="290" y="96"  fill="#00FF41" font-family="monospace" font-size="12" font-weight="bold">see graph ↑</text>
-
-  <text x="28" y="124" fill="#adbac7" font-family="monospace" font-size="12">🛠️  Languages Used:</text>
-  <text x="290" y="124" fill="#00d4ff" font-family="monospace" font-size="12" font-weight="bold">7+</text>
-
-  <text x="28" y="152" fill="#adbac7" font-family="monospace" font-size="12">📁  Public Repos:</text>
-  <text x="290" y="152" fill="#00d4ff" font-family="monospace" font-size="12" font-weight="bold">see profile</text>
-
-  <text x="28" y="180" fill="#adbac7" font-family="monospace" font-size="12">📅  Coding Since:</text>
-  <text x="290" y="180" fill="#00d4ff" font-family="monospace" font-size="12" font-weight="bold">2021</text>
-
-  <text x="28" y="208" fill="#adbac7" font-family="monospace" font-size="12">🏆  ALX Certified:</text>
-  <text x="290" y="208" fill="#FFD700" font-family="monospace" font-size="12" font-weight="bold">Dec 2024</text>
-
-  <!-- ── RIGHT CARD: Languages ── -->
-  <rect x="392" y="0" width="368" height="220" rx="10" fill="url(#cardB)" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.5"/>
-  <rect x="392" y="0" width="368" height="220" rx="10" fill="none" stroke="#00d4ff" stroke-width="1">
-    <animate attributeName="stroke-opacity" values="0.2;0.7;0.2" dur="3s" begin="1.5s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- title -->
-  <text x="410" y="30" fill="#00d4ff" font-family="monospace" font-size="13" font-weight="bold" filter="url(#g)">Most Used Languages</text>
-  <line x1="410" y1="40" x2="742" y2="40" stroke="#00d4ff" stroke-width="0.5" stroke-opacity="0.4"/>
-
-  <!-- TypeScript bar -->
-  <text x="410" y="68" fill="#adbac7" font-family="monospace" font-size="12">TypeScript</text>
-  <rect x="410" y="74" width="0" height="8" rx="4" fill="#007ACC">
-    <animate attributeName="width" from="0" to="260" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </rect>
-  <text x="678" y="83" fill="#007ACC" font-family="monospace" font-size="11">primary</text>
-
-  <!-- JavaScript bar -->
-  <text x="410" y="105" fill="#adbac7" font-family="monospace" font-size="12">JavaScript</text>
-  <rect x="410" y="111" width="0" height="8" rx="4" fill="#F7DF1E">
-    <animate attributeName="width" from="0" to="200" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </rect>
-
-  <!-- Python bar -->
-  <text x="410" y="142" fill="#adbac7" font-family="monospace" font-size="12">Python</text>
-  <rect x="410" y="148" width="0" height="8" rx="4" fill="#3670A0">
-    <animate attributeName="width" from="0" to="150" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </rect>
-
-  <!-- SQL bar -->
-  <text x="410" y="179" fill="#adbac7" font-family="monospace" font-size="12">SQL</text>
-  <rect x="410" y="185" width="0" height="8" rx="4" fill="#316192">
-    <animate attributeName="width" from="0" to="120" dur="2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </rect>
-
-  <!-- C++ bar -->
-  <text x="410" y="216" fill="#adbac7" font-family="monospace" font-size="12">C++ / Java / Bash</text>
-  <rect x="410" y="220" width="0" height="6" rx="3" fill="#00599C">
-    <animate attributeName="width" from="0" to="90" dur="2.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </rect>
-</svg>
+![ALX Date](https://img.shields.io/badge/Certified-December%202024-555?style=flat-square&labelColor=0d1117)
+![BSc Date](https://img.shields.io/badge/Graduated-August%202025-555?style=flat-square&labelColor=0d1117)
+![UK Date](https://img.shields.io/badge/Validated-August%202025-555?style=flat-square&labelColor=0d1117)
 
 </div>
 
 ---
 
-<!-- ═══════════ CREDENTIALS ═══════════ -->
-## `> cat ./credentials.txt`
+## 💬 Contact
 
 <div align="center">
 
-<svg width="680" height="175" viewBox="0 0 680 175" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="credBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0a1628"/>
-    </linearGradient>
-  </defs>
-  <rect width="680" height="175" rx="10" fill="url(#credBg)" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.5"/>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
 
-  <!-- pulse border -->
-  <rect x="1" y="1" width="678" height="173" rx="10" fill="none" stroke="#00d4ff" stroke-width="1">
-    <animate attributeName="stroke-opacity" values="0.1;0.6;0.1" dur="4s" repeatCount="indefinite"/>
-  </rect>
+<br>
 
-  <text x="340" y="30" text-anchor="middle" fill="#00d4ff" font-family="monospace" font-size="13">── CREDENTIALS &amp; EDUCATION ──</text>
-
-  <text x="30" y="62"  fill="#FFD700" font-family="monospace" font-size="14">🏆</text>
-  <text x="55" y="62"  fill="#ffffff" font-family="monospace" font-size="13" font-weight="bold">ALX Software Engineering Certification</text>
-  <text x="55" y="80"  fill="#adbac7" font-family="monospace" font-size="12">    ALX Africa  ·  System Design &amp; Operations  ·  Dec 2024</text>
-
-  <text x="30" y="108" fill="#00FF41" font-family="monospace" font-size="14">🎓</text>
-  <text x="55" y="108" fill="#ffffff" font-family="monospace" font-size="13" font-weight="bold">B.Sc. Computer Science  —  131 Credit Hours</text>
-  <text x="55" y="126" fill="#adbac7" font-family="monospace" font-size="12">    Arab Open University, Cairo  ·  Aug 2025</text>
-
-  <text x="30" y="154" fill="#00d4ff" font-family="monospace" font-size="14">🇬🇧</text>
-  <text x="55" y="154" fill="#ffffff" font-family="monospace" font-size="13" font-weight="bold">UK Open University Dual Validation</text>
-  <text x="55" y="170" fill="#adbac7" font-family="monospace" font-size="12">    AOU × The Open University, United Kingdom  ·  Aug 2025</text>
-</svg>
-
-</div>
-
----
-
-<!-- ═══════════ CONTACT ═══════════ -->
-## `> ping contact --open`
-
-<div align="center">
-
-```bash
-$ curl https://api.minarob23.dev/status
-{
-  "engineer"  : "Mina Robir Magdy Fawzy",
-  "available" : true,
-  "location"  : "Cairo, Egypt  →  Remote-friendly",
-  "seeking"   : ["Senior Backend", "Full-Stack", "Desktop Engineering"],
-  "respond_in": "< 24 hours"
-}
-```
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1200&color=555555&center=true&vCenter=true&width=680&lines=Clean+code.+Modular+architecture.+Real+impact.;Shipping+since+2021.+Still+accelerating.;Every+commit+is+a+step+forward.)](https://github.com/minarob23)
-
-<!-- SVG FOOTER -->
-<svg width="100%" height="60" viewBox="0 0 860 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00FF41" stop-opacity="0"/>
-      <stop offset="30%"  stop-color="#00FF41"/>
-      <stop offset="70%"  stop-color="#00d4ff"/>
-      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <line x1="0" y1="30" x2="860" y2="30" stroke="url(#footerGrad)" stroke-width="1">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
-  </line>
-  <text x="430" y="52" text-anchor="middle" fill="#333" font-family="monospace" font-size="11">© minarob23 · Cairo, Egypt</text>
-</svg>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=444444&center=true&vCenter=true&width=700&lines=Clean+code.+Modular+architecture.+Real+impact.;Shipping+since+2021.+Still+accelerating.;Every+commit+is+a+step+forward.)](https://github.com/minarob23)
 
 </div>
