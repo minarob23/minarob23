@@ -55,17 +55,12 @@
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    M Y   C O D E   C R E E D                    │
-├─────────────────────────────────────────────────────────────────┤
-│  ✦  Performance is a feature, not an afterthought               │
-│  ✦  Every abstraction must earn its complexity cost             │
-│  ✦  Tests are documentation that actually stays up-to-date      │
-│  ✦  A good README is half the work                              │
-│  ✦  The best API is the one you never have to explain           │
-└─────────────────────────────────────────────────────────────────┘
-```
+| 🏎️ | **Performance is a feature, not an afterthought** |
+|:---:|:---|
+| 🧱 | **Every abstraction must earn its complexity cost** |
+| 🧪 | **Tests are documentation that actually stays up-to-date** |
+| 📖 | **A good README is half the work** |
+| 🔌 | **The best API is the one you never have to explain** |
 
 ---
 
@@ -139,21 +134,17 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                  SHIPPING SINCE 2021 — BY THE NUMBERS           ║
-╠═══════════════════╦══════════════════════════════════════════════╣
-║  5+               ║  Full-stack web apps in production           ║
-║  3                ║  Cross-platform Electron desktop systems     ║
-║  <200ms           ║  API response latency under bulk load        ║
-║  -30%             ║  Page load time reduction achieved           ║
-║  -25%             ║  Server response time improvement            ║
-║  +15%             ║  User session duration uplift                ║
-║  120+             ║  Students coached in CS & mathematics        ║
-║  5,000+           ║  Weekly visits across deployments            ║
-║  3+               ║  Years of continuous shipping                ║
-╚═══════════════════╩══════════════════════════════════════════════╝
-```
+![Apps](https://img.shields.io/badge/5%2B-Full--Stack%20Apps%20in%20Production-00FF41?style=for-the-badge&labelColor=0d1117)
+![Desktop](https://img.shields.io/badge/3-Cross--Platform%20Electron%20Systems-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Latency](https://img.shields.io/badge/%3C200ms-API%20Response%20Under%20Bulk%20Load-FFD700?style=for-the-badge&labelColor=0d1117)
+
+![PageLoad](https://img.shields.io/badge/-30%25-Page%20Load%20Time%20Reduction-00FF41?style=for-the-badge&labelColor=0d1117)
+![Server](https://img.shields.io/badge/-25%25-Server%20Response%20Time%20Improvement-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Session](https://img.shields.io/badge/%2B15%25-User%20Session%20Duration%20Uplift-FFD700?style=for-the-badge&labelColor=0d1117)
+
+![Students](https://img.shields.io/badge/120%2B-Students%20Coached%20in%20CS%20%26%20Math-00FF41?style=for-the-badge&labelColor=0d1117)
+![Visits](https://img.shields.io/badge/5%2C000%2B-Weekly%20Visits%20Across%20Deployments-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Years](https://img.shields.io/badge/3%2B-Years%20of%20Continuous%20Shipping-FFD700?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -161,28 +152,14 @@
 
 ## 🗓️ My Developer Journey
 
-```
-2021 ──┬── Started B.Sc. Computer Science at Arab Open University
-       │   First lines of web code written. No going back.
-       │
-2022 ──┼── Built first full-stack CRUD app (React + Node.js + PostgreSQL)
-       │   Fell in love with backend engineering and system design
-       │
-2023 ──┼── Shipped first Electron desktop system
-       │   Explored Docker, AWS EC2/S3, and CI/CD pipelines
-       │   Started coaching 120+ students in CS & mathematics
-       │
-2024 ──┼── Deployed multi-regional apps (5,000+ weekly visits)
-       │   Achieved <200ms API latency under bulk load
-       │   🏆 Certified — ALX Africa Software Engineering (Dec 2024)
-       │
-2025 ──┼── 🎓 Graduated B.Sc. Computer Science (131 credits)
-       │   🇬🇧 Dual validation — The Open University, UK
-       │   Expanded into microservices & distributed systems
-       │
-2026 ──┴── 🟢 Open to Senior Backend & Full-Stack opportunities
-           Building the next chapter.
-```
+| Year | Milestone |
+|:---:|:---|
+| **2021** | 🎓 Started B.Sc. Computer Science · First web code written. No going back. |
+| **2022** | 🚀 Built first full-stack app with React + Node.js + PostgreSQL · Fell in love with backend engineering |
+| **2023** | 🖥️ Shipped first Electron desktop system · Explored Docker, AWS, CI/CD · Started coaching 120+ students |
+| **2024** | 🌍 Deployed multi-regional apps (5,000+ weekly visits) · Hit <200ms API latency · 🏆 ALX Africa Certified |
+| **2025** | 🎓 Graduated B.Sc. CS (131 credits) · 🇬🇧 Dual validation — The Open University, UK · Deep-dived into microservices |
+| **2026** | 🟢 Open to Senior Backend & Full-Stack opportunities · Building the next chapter |
 
 ---
 
@@ -244,20 +221,11 @@
 
 <div align="center">
 
-```
-  async function workWithMina() {
-    const traits = {
-      communication : "async-first, always responds within 24h",
-      codeReviews   : "constructive, specific, and kind",
-      deadlines     : "ships on time or flags blockers early",
-      documentation : "writes it before being asked",
-      debugging     : "digs to root cause, not just symptoms",
-      learning      : "reads the RFC before the tutorial",
-    };
+I communicate async-first and always respond within 24 hours. My code reviews are constructive, specific, and kind — I care about the engineer as much as the code. I ship on time, and when I can't, I flag blockers early rather than going quiet.
 
-    return traits;
-  }
-```
+Documentation isn't an afterthought for me — it's part of the job. When debugging, I dig to root cause rather than patching symptoms. And when I'm learning something new, I read the RFC before I reach for the tutorial.
+
+> *The kind of engineer you want on call — and in the planning meeting.*
 
 </div>
 
