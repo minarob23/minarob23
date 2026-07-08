@@ -100,83 +100,103 @@ const mina = {
 
 ---
 
-<!-- PROJECTS -->
-## `> cat ./projects/featured.log`
+<!-- WHAT I BUILD -->
+## `> cat ./engineering-dna.md`
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=EB5454&center=true&vCenter=true&width=750&lines=I+build+RESTful+APIs+that+don't+break+under+pressure.;I+design+schemas+that+outlive+the+sprint.;I+ship+UIs+that+users+actually+enjoy.;I+automate+the+boring+parts+so+teams+ship+faster.;I+write+code+that+the+next+engineer+can+read.)](https://github.com/minarob23)
+
+</div>
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖨️ ECS Printing & Design
-**E-Commerce & Production Management Platform** · `2026`
-
+### 🌐 Web Engineering
 ```
-$ inspect ecs-printing
-  latency  : optimized
-  impact   : +35% order efficiency
-  arch     : pnpm monorepo
+$ run diagnostics --domain web
+  ✔  RESTful API design & versioning
+  ✔  Monorepo architecture (pnpm)
+  ✔  SPA routing & lazy loading
+  ✔  Secure auth flows
+  ✔  Responsive UI  →  Tailwind + React
+  ✔  Sub-200ms API response targets
 ```
-
-pnpm monorepo · Vite React SPA · Express API · PostgreSQL via Drizzle ORM. Supports Screen, DTF & Embroidery printing with secure artwork uploads (PNG, PDF, AI, EPS) and a full admin analytics dashboard.
-
-`TypeScript` `React` `Vite` `Express` `PostgreSQL` `Drizzle ORM` `pnpm`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 EgypTex Gateway
-**B2B Textile E-Commerce Platform** · `Mar 2025`
-
+### 🗄️ Data & Backend
 ```
-$ inspect egyptex-gateway
-  api_latency : <200ms
-  reach       : 50+ manufacturers
-  market      : Egypt → International
+$ run diagnostics --domain backend
+  ✔  Normalized PostgreSQL schemas
+  ✔  Drizzle ORM · query optimization
+  ✔  MVC architecture & clean modules
+  ✔  SQLite for embedded / offline apps
+  ✔  Bulk transaction handling
+  ✔  Data integrity & migration safety
 ```
-
-Connected 50+ Egyptian manufacturers to global markets. Full-stack architecture with sub-200ms API response under bulk transaction loads and normalized PostgreSQL schemas.
-
-`TypeScript` `React` `Node.js` `Express` `PostgreSQL` `AWS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ Digital Gateway — Bwabtak
-**Multi-Regional Commercial Platform** · `Mar 2025`
-
+### 🖥️ Desktop & Automation
 ```
-$ inspect bwabtak
-  regions  : [Jordan, Egypt]
-  traffic  : 5,000+ weekly visits
-  downtime : 0
+$ run diagnostics --domain desktop
+  ✔  Cross-platform apps via Electron
+  ✔  Python scripting & task automation
+  ✔  Bash pipelines & cron scheduling
+  ✔  Local DB management (SQLite)
+  ✔  Backup & recovery systems
+  ✔  Admin dashboards & inventory tools
 ```
-
-Multi-regional deployment across Jordan & Egypt. Backend architected to absorb sudden traffic surges with zero service degradation.
-
-`Node.js` `Express` `PostgreSQL` `AWS EC2` `Vercel`
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Desktop Tools Suite
-**Library Management & Backup Automation** · `Mar–May 2025`
-
+### ☁️ DevOps & Deployment
 ```
-$ inspect desktop-tools
-  ops_speedup     : 40% faster
-  data_integrity  : 100%
-  backup_time     : -50%
+$ run diagnostics --domain devops
+  ✔  Docker containerisation
+  ✔  AWS EC2 & S3 deployments
+  ✔  GitHub Actions CI/CD pipelines
+  ✔  Vercel & Render deployments
+  ✔  Linux server administration
+  ✔  Zero-downtime release strategies
 ```
-
-Cross-platform Electron desktop app + Python/Bash automated backup pipelines. Full data integrity with rapid recovery during outages.
-
-`Electron` `Python` `Bash` `SQLite`
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- METRICS BANNER -->
+## `> ./metrics --production`
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   📦  5+   Full-stack web apps shipped to production                        │
+│   🖥️   3    Cross-platform desktop systems deployed                          │
+│   ⚡  <200ms  API response latency under bulk load                           │
+│   📉  -30%    Page load time  ·  -25%  Server response time                 │
+│   📈  +15%    User session duration  ·  +35%  Order processing efficiency   │
+│   🔒  100%    Data integrity across all backup pipelines                    │
+│   🤖  -50%    Backup time via Python & Bash automation                      │
+│   👨‍🏫  120+    Students coached in mathematics & computational thinking       │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
