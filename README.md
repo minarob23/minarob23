@@ -138,8 +138,8 @@
 ![Desktop](https://img.shields.io/badge/3-Cross--Platform%20Electron%20Systems-00d4ff?style=for-the-badge&labelColor=0d1117)
 ![Latency](https://img.shields.io/badge/%3C200ms-API%20Response%20Under%20Bulk%20Load-FFD700?style=for-the-badge&labelColor=0d1117)
 
-![PageLoad](https://img.shields.io/badge/-30%25-Page%20Load%20Time%20Reduction-00FF41?style=for-the-badge&labelColor=0d1117)
-![Server](https://img.shields.io/badge/-25%25-Server%20Response%20Time%20Improvement-00d4ff?style=for-the-badge&labelColor=0d1117)
+![PageLoad](https://img.shields.io/badge/Page%20Load%20Time-%E2%86%9330%25%20Reduction-00FF41?style=for-the-badge&labelColor=0d1117)
+![Server](https://img.shields.io/badge/Server%20Response-%E2%86%9325%25%20Improvement-00d4ff?style=for-the-badge&labelColor=0d1117)
 ![Session](https://img.shields.io/badge/%2B15%25-User%20Session%20Duration%20Uplift-FFD700?style=for-the-badge&labelColor=0d1117)
 
 ![Students](https://img.shields.io/badge/120%2B-Students%20Coached%20in%20CS%20%26%20Math-00FF41?style=for-the-badge&labelColor=0d1117)
