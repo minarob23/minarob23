@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minarob23)
-[![Projects](https://img.shields.io/badge/Featured-Projects-00FF41?style=for-the-badge&logo=rocket&logoColor=black)](#-featured-projects)
+<a href="#-featured-projects"><img src="assets/featured-projects.svg" alt="Featured Projects" height="48"></a>
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-success?style=for-the-badge)
 ![Location](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC%20Based%20in-Cairo%2C%20Egypt-informational?style=for-the-badge)
 
@@ -232,7 +232,7 @@ Documentation isn't an afterthought for me — it's part of the job. When debugg
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minarob23)
-[![Projects](https://img.shields.io/badge/View%20My-Featured%20Projects-00FF41.svg?style=for-the-badge&logo=rocket&logoColor=black)](#-featured-projects)
+<a href="#-featured-projects"><img src="assets/featured-projects.svg" alt="Featured Projects" height="48"></a>
 
 <br>
 
