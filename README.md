@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minarob23)
-<a href="#-featured-projects"><img src="assets/featured-projects.svg" alt="Featured Projects" height="48"></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/FEATURED-PROJECTS%20%E2%96%B8-00FF41?style=for-the-badge&labelColor=0d1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFjMyAyLjUgNC41IDYgNC41IDkuNVYxNWgtOXYtNC41QzcuNSA3IDkgMy41IDEyIDF6Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSI4LjUiIHI9IjEuOCIgZmlsbD0iIzBkMTExNyIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik03LjUgMTEgNCAxNS41VjE5bDMuNS0yek0xNi41IDExIDIwIDE1LjVWMTlsLTMuNS0yeiIvPjxwYXRoIGZpbGw9IiNGRkI0MDAiIGQ9Ik05LjUgMTYuNWg1TDEyIDIzeiIvPjwvc3ZnPg%3D%3D" alt="Featured Projects" height="40"></a>
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-success?style=for-the-badge)
 ![Location](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%AC%20Based%20in-Cairo%2C%20Egypt-informational?style=for-the-badge)
 
@@ -232,7 +232,7 @@ Documentation isn't an afterthought for me — it's part of the job. When debugg
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-robir-1392ab241)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minarob23)
-<a href="#-featured-projects"><img src="assets/featured-projects.svg" alt="Featured Projects" height="48"></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/FEATURED-PROJECTS%20%E2%96%B8-00FF41?style=for-the-badge&labelColor=0d1117&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFjMyAyLjUgNC41IDYgNC41IDkuNVYxNWgtOXYtNC41QzcuNSA3IDkgMy41IDEyIDF6Ii8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSI4LjUiIHI9IjEuOCIgZmlsbD0iIzBkMTExNyIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik03LjUgMTEgNCAxNS41VjE5bDMuNS0yek0xNi41IDExIDIwIDE1LjVWMTlsLTMuNS0yeiIvPjxwYXRoIGZpbGw9IiNGRkI0MDAiIGQ9Ik05LjUgMTYuNWg1TDEyIDIzeiIvPjwvc3ZnPg%3D%3D" alt="Featured Projects" height="40"></a>
 
 <br>
 
