@@ -141,7 +141,7 @@ Full Stack Software Engineer with 3+ years of experience delivering production w
 | **[EgyptTex Gateway](https://egyptexgateway.com)** — Nile Tex | Next.js 15, React 19, Supabase & Neon, Tailwind | B2B textile marketplace across 8 categories; RBAC + Row-Level Security; tiered EGP volume pricing and sample ordering |
 | **Father Yostos Library POS** — Client | Electron, React, TypeScript, Express, better-sqlite3 | Offline-first cashier & inventory desktop app; barcode tracking, supplier accounts, auto invoices; v2.0 Windows installer |
 | **Puno POS** — Client | Electron, React, Vite, Tailwind | Offline-first restaurant POS; secure IPC (`contextBridge`); non-blocking thermal receipt printing |
-| **[GameVault](https://github.com/minarob23)** — Graduation project | Python, FastAPI, React, XGBoost/LightGBM, PostgreSQL | E-commerce analytics with sales forecasting and NLP intent-classification assistant |
+| **[GameVault](https://github.com/minarob23/gamevault)** — Graduation project | Python, FastAPI, React, XGBoost/LightGBM, PostgreSQL | E-commerce analytics with sales forecasting and NLP intent-classification assistant |
 
 ---
 
